@@ -1,0 +1,29 @@
+body{
+	padding-top: 55px;
+	padding-left: 55px;
+	padding-bottom: 55px;
+	max-width: 1440px;
+	margin: auto;
+	font-family: 'Montserrat';
+	background-color: #a4d8ff;
+	font-size: 100px;
+
+}
+#text {
+	height: 100px;
+	width: 500px;
+	padding: 10px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	border-radius: 5px;
+	border-color: #ffffff;
+}
+
+#counter {
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#description {
+	margin-bottom: 20px;
+}
